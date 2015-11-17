@@ -1,2 +1,2 @@
 # SectionTest
-My favorite candy is gushers.
+My favorite candy is twix.
