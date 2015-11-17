@@ -1,2 +1,2 @@
 # SectionTest
-My favorite candy is twix
+My favorite candy is milky way
